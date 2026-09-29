@@ -1,2 +1,2 @@
-# First-Game
-A learning project using Godot
+# Godot
+Godot practice repo
